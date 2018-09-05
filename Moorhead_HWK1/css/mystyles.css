@@ -1,0 +1,54 @@
+p{
+    width:50%;
+    margin: auto auto;
+    text-align: center;
+    color: black;
+}
+h1{
+    text-align: center;
+    margin: auto auto;
+    width:50%;
+    color: blue;
+}
+h2{
+    text-align: center;
+    margin: auto auto;
+    width:50%;
+    color: blue;
+}
+pre{
+    text-align: center;
+    margin: auto auto;
+    width:50%;
+    font-family: "Times New Roman";
+}
+ul{
+    margin: auto auto;
+    width:13%;
+    color: black;
+}
+q{
+    /* Just wanted Italic for looks*/
+    font-style: italic;
+}
+button{
+    display: flex;
+    justify-content: center;
+    margin: auto auto;
+}
+.left{
+    float:left;
+    width:250px;
+    height:150px;
+}
+.right{
+    float:right;
+    width:250px;
+    height:150px;
+}
+.redText{
+    color: Red;
+}
+.greenText{
+    color: green;
+}
