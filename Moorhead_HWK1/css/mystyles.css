@@ -16,6 +16,21 @@ h2{
     width:50%;
     color: blue;
 }
+h4{
+     text-align: center;
+     margin: auto auto;
+     width:50%;
+ }
+h5{
+    text-align: center;
+    margin: auto auto;
+    width:50%;
+}
+h6{
+    text-align: center;
+    margin: auto auto;
+    width:50%;
+}
 pre{
     text-align: center;
     margin: auto auto;
@@ -51,4 +66,12 @@ button{
 }
 .greenText{
     color: green;
+}
+
+.speaker{
+    text-align: left;
+    width: 100%;
+}
+bdo{
+    color: white;
 }
